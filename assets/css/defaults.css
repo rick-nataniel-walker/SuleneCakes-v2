@@ -1,0 +1,19 @@
+:root {
+  --p-color: #3A311D;
+  --s-color: #D4C483;
+  --base: #B09457;
+}
+
+.overly {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+.gray-section {
+  background: var(--bs-light);
+}
+
